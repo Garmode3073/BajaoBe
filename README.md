@@ -14,9 +14,9 @@ We used tkinter toolkit for GUI. We also used "pygame", "eyed3", "mutagen", "os"
 
 This is the page the user will see when he opens the application or (runs home.py). As seen below we have added many functions like pause,play, stop or repeat the song. The meta data like artist, album, etc. is shown. On the left is the playlist where we can add, delete songs. There is also a volume scroll to control the volume. There is a label showing time of song versus remaining time. There is also a status bar showing status every second.There are interactive buttons like "Pause"/"Play", "Stop", "Replay", "Mute".
 
-![2](https://github.com/Garmode3073/BajaoBe/blob/master/ss/2.png)
+![2](https://github.com/Garmode3073/BajaoBe/tree/main/ss/2.png)
 
-![1](https://github.com/Garmode3073/BajaoBe/blob/master/ss/1.png)
+![1](https://github.com/Garmode3073/BajaoBe/tree/main/ss/1.png)
 
 ## IMPLEMENTATION PLAN
 
